@@ -19,8 +19,8 @@ Example
 }
 */
 
-var a = 40;
-if (a > 10){
-    a = 10
-    console.log(a);
+var a = 40;             //defines a to be 40
+if (a > 10){            //checks if a is greater than 10, if a is greater than 10 it continues
+    a = 10              //changes a to 10
+    console.log(a);     //prints a which is 10
 }
