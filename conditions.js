@@ -8,5 +8,11 @@
         -False
 
 
---> The Truth(The Truthsy) Value - 
+--> The Truth(The Truthy) Value - are values that are valid i.e they give valid response...they are not found under falsy
 */
+
+var a = 10;
+
+if (a){
+    a = a * 2;
+}
