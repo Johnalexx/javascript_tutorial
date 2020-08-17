@@ -1,4 +1,4 @@
-# INTRO on Scope
+# INTRODUCTION on Scope
 
 > The First part in the intermediate level
 **The Scope**
