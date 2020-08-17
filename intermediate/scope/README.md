@@ -4,9 +4,10 @@
         The Scope
 
 > You will know on
-    -   Nested Scope
-    -   Hoisting
-    -   Closure  
+    
+-   Nested Scope
+-   Hoisting
+-   Closure  
     
 
     @Johnalexx
