@@ -1,13 +1,14 @@
 # INTRO on Scope
 
 > The First part in the intermediate level
-        The Scope
+**The Scope**
 
 > You will know on
     
 -   Nested Scope
 -   Hoisting
 -   Closure  
+-   Modules
     
 
     @Johnalexx
