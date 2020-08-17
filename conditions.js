@@ -16,3 +16,9 @@ var a = 10;
 if (a){
     a = a * 2;
 }
+
+
+//Void- the void function makes anything given to it undefined
+//example:
+void 42
+            //this will print "Undefined" in the console
