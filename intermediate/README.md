@@ -1,4 +1,4 @@
-##Intro
+#Intro
 
 **Intermediate Level**
 
@@ -8,4 +8,4 @@
         
         
         
-        Johnalex
+        @Johnalexx
