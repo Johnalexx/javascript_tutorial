@@ -13,10 +13,10 @@
                         -   more debuggable stack traces
                         -   more understandable and accessible
                         -    (declaration and expression) when a function is named it makes it easier for us to consume it again for similar use cases.
-                        
+
         */
 
-var food = function food{
+var food = function food(){
     //This is a Named function expression
 }
 
