@@ -17,3 +17,5 @@ function foo(){
     baz;
 
 }
+
+//Check Dyscope.js for Dynamic Scope
